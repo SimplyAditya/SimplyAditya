@@ -2,8 +2,6 @@
 <h3 align="center">Passionate Full stack developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simplyaditya&label=Profile%20views&color=0e75b6&style=flat" alt="simplyaditya" /> </p>
-
 - 🔭 I’m currently working on [Palmbook](https://palmbook-admin-qhox39y6j-aditya-bansals-projects-03ea35fa.vercel.app/)
 
 - 👯 I’m proud to work at [National Book Trust Book Fair Website](https://nbt.rannlabprojects.com/)
