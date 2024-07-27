@@ -3,7 +3,7 @@
 # Hi 👋, I'm Aditya Bansal
 
 ### Passionate Full Stack Developer from India
-### Visit me on <a>https://portfolio-aditya-bansal.vercel.app/</a>
+### Check out my complete details at: <a>https://portfolio-aditya-bansal.vercel.app/</a>
 
 ---
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
@@ -68,15 +68,17 @@
 
 ### About Me
 
-I am Aditya Bansal, a passionate full-stack developer from India with a keen interest in building dynamic and scalable web applications. I am currently pursuing a BTech degree and have completed my second year. With a strong foundation in backend web development, I have experience in full-stack development and basic knowledge of Android development.
+I am Aditya Bansal, a passionate full-stack developer from India with a keen interest in building dynamic and scalable web applications. I am currently pursuing a BTech degree and have completed my second year. With a strong foundation in backend development, I have experience in full-stack development and basic knowledge of Android development.
 
 ### Projects
 
-- **Palmbook:** A web application for admin CRUD operations over a database used by a mobile application for college facilities like booking bus services and updating the mess menu for students. This project uses Firebase.
+- **Palmbook:** A web application for admin CRUD operations over a database used by a mobile application for college facilities like booking bus services, updating the mess menu for students and managing students community with providing them access to various features. This project uses Firebase.
   
-- **Fling:** A dating mobile application similar to Tinder, built with PostgreSQL.
+- **Fling:** A dating mobile application similar to the dating applications but with a lot more features and it's not a clone, built with PostgreSQL, Node.js and Flutter.
   
 - **National Book Trust Book Fair Website:** A highly scalable website for users to find relevant books and locate stalls at the book fair, utilizing MongoDB.
+
+- **Electrak:** A completely customizable dashboard which is used to track the energy requirements or performance of high consumption appliances used in the industry.
 
 ---
 
