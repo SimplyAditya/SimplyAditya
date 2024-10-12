@@ -10,7 +10,7 @@
 
 🔭 **Currently working on:** [Palmbook](https://palmbook-admin-qhox39y6j-aditya-bansals-projects-03ea35fa.vercel.app/)
 
-👯 **Proudly contributing to:** [National Book Trust Book Fair Website](https://nbt.rannlabprojects.com/)
+👯 **Proudly contributing to:** [CESTT Official Website](https://cestt.co.uk/)
 
 💬 **Ask me about:** Node.js, Java, Flutter
 
@@ -18,7 +18,7 @@
 
 📄 **Know about my experiences:** [Aditya Bansal Resume](https://drive.google.com/file/d/12rBtDHTBtQ77-bwdNbzwdWtKfDI4H6TQ/view?usp=drive_link)
 
-⚡ **Fun fact:** I am ready to learn anything except Machine Learning
+⚡ **Fun fact:** I am ready to learn anything except AI or Machine Learning
 
 ---
 
