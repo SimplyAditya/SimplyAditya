@@ -8,7 +8,7 @@
 ---
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-🔭 **Currently working on:** [UniSphere](https://palmbook.bmu.edu.in/)
+🔭 **Currently working on:** [UniSphere](https://unisphere.bmu.edu.in/)
 
 👯 **Proudly contributing to:** [CESTT Official Website](https://cestt.co.uk/)
 
@@ -18,7 +18,7 @@
 
 📫 **Reach me at:** adityabansal200311@gmail.com
 
-📄 **Know about my experiences:** [Aditya Bansal Resume](https://drive.google.com/file/d/12rBtDHTBtQ77-bwdNbzwdWtKfDI4H6TQ/view?usp=drive_link)
+📄 **Know about my experiences:** [Aditya Bansal Resume](https://drive.google.com/file/d/1r6uKU6sIzTid9m__c_WF0r3761y7OVOc/view?usp=sharing)
 
 ⚡ **Fun fact:** I am ready to learn anything except AI or Machine Learning
 
