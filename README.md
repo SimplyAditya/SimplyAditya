@@ -10,9 +10,9 @@
 
 🔭 **Currently working on:** [UniSphere](https://unisphere.bmu.edu.in/)
 
-👯 **Proudly contributing to:** [CESTT Official Website](https://cestt.co.uk/)
+👯 **Proudly contributing to:** [USTART](https://ustart.in/)
 
-🔭 **I am working for:** [Rannlab Technologies Pvt. Ltd.](https://rannlab.com/)
+🔭 **I am working for:** [ToWeb Technology Pvt. Ltd.](https://ustart.in/)
 
 💬 **Ask me about:** Web and Android Development
 
