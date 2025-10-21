@@ -95,7 +95,7 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <tr>
 <td width="50%" valign="top">
 
-### Pinkcity Official Website
+### [Pinkcity Website](https://pinkcitymouthfresheners.com)
 **E-commerce Platform for Premium Mouth Fresheners**
 
 **Tech Stack:** Next.js, TypeScript
@@ -127,7 +127,7 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <tr>
 <td width="50%" valign="top">
 
-### NSE Total Market
+### [NSE Total Market](https://nse-total-market.aditya-bansal.tech)
 **Financial Market Analysis Dashboard**
 
 **Tech Stack:** React, Node.js, MongoDB, AG Grid
@@ -153,25 +153,11 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <table>
 <tr>
 <td width="50%" align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplyaditya&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=simplyaditya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8)
 </td>
 <td width="50%" align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simplyaditya&theme=radical&hide_border=true)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=simplyaditya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</td>
-<td width="50%" align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simplyaditya&theme=redical&hide_border=true&area=true)
 
 </td>
 </tr>
