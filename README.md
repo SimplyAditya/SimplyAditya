@@ -1,4 +1,4 @@
-# Aditya Bansal
+# Hi 👋, I'm Aditya Bansal  
 
 ### Full Stack Developer | Mobile & Web Specialist | Open Source Contributor
 
@@ -95,8 +95,8 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <tr>
 <td width="50%" valign="top">
 
-### [Pinkcity Website](https://pinkcitymouthfresheners.com)
-**E-commerce Platform for Premium Mouth Fresheners**
+### [Pinkcity Official Website](https://pinkcitymouthfresheners.com)
+**Official Website for Premium Mouth Fresheners**
 
 **Tech Stack:** Next.js, TypeScript
 
@@ -153,11 +153,25 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <table>
 <tr>
 <td width="50%" align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=simplyaditya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simplyaditya&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
 </td>
 <td width="50%" align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simplyaditya&theme=radical&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=simplyaditya&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</td>
+<td width="50%" align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=simplyaditya&theme=redical&hide_border=true&area=true)
 
 </td>
 </tr>
@@ -170,11 +184,6 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 ### 📊 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=simplyaditya&bg_color=141321&color=ff0068&line=ff0068&point=ffffff&area=true&hide_border=true)
-
-### 💻 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>
 
