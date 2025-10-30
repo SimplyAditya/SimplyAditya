@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer based in India, specializing in building scalable web and mobile applications. Currently working at **USTART (ToWeb Technology Pvt. Ltd.)**, where I contribute to innovative projects like **UniSphere**.
+I'm a passionate Full Stack Developer based in India, specializing in building scalable web and mobile applications. Currently working at **USTART (ToWeb Technology Pvt. Ltd.)**, while I contribute to innovative projects like **UniSphere**.
 
 With expertise spanning across modern JavaScript/TypeScript ecosystems, mobile frameworks, and cloud infrastructure, I transform ideas into production-ready applications. I thrive on solving complex problems and delivering seamless user experiences.
 
