@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-aditya--bansal.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-bansal.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adityabansal.in-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adityabansal.in/)
 [![Email](https://img.shields.io/badge/Email-adityabansal200311%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityabansal200311@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-0077B5?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1r6uKU6sIzTid9m__c_WF0r3761y7OVOc/view?usp=sharing)
 
