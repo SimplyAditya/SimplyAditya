@@ -62,7 +62,7 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <tr>
 <td width="50%" valign="top">
 
-### [Mailgenie](https://mailgenie.aditya-bansal.tech)
+### [Mailgenie](https://mailgenie.adityabansal.in)
 **AI-Powered Email Management Platform**
 
 **Tech Stack:** React, Node.js, TypeScript, PostgreSQL
@@ -127,7 +127,7 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 <tr>
 <td width="50%" valign="top">
 
-### [NSE Total Market](https://nse-total-market.aditya-bansal.tech)
+### [NSE Total Market](https://nse-total-market.adityabansal.in)
 **Financial Market Analysis Dashboard**
 
 **Tech Stack:** React, Node.js, MongoDB, AG Grid
