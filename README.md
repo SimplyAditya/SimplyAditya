@@ -110,23 +110,6 @@ Git • Postman • Figma • Android Studio • IMAP/SMTP • AG Grid • Gemin
 </td>
 <td width="50%" valign="top">
 
-### saaddaVaahan
-**Crowdsourced Vehicle Tracking System**
-
-**Tech Stack:** Flutter, Next.js, Custom ML Model
-
-**Features:**
-- Real-time data collection
-- ML-based categorization
-- Web dashboard
-
-**Target:** Tier 2 & 3 cities transportation management
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [NSE Total Market](https://nse-total-market.adityabansal.in)
 **Financial Market Analysis Dashboard**
 
